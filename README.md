@@ -55,8 +55,10 @@ $ cd django-black-dashboard
 > Install modules via `VENV`  
 
 ```bash
+$ pip install virtualenv  
 $ virtualenv env
-$ source env/bin/activate
+$ env/scripts/activate.bat
+$ // source env/bin/activate
 $ pip3 install -r requirements.txt
 ```
 
