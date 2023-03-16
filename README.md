@@ -31,6 +31,12 @@ Open-source **[Django Template](https://www.creative-tim.com/templates/django)**
 
 <br />
 
+## Docker
+
+```
+docker run -it run -p 8080:5005 blackdashboarddjango
+```
+
 ## Demo
 
 > To authenticate use the default credentials ***test / ApS12_ZZs8*** or create a new user on the **registration page**.
